@@ -1,67 +1,68 @@
-{ products : [
-  {
-    id: 1,
-    name: "Table",
-    sales: 500,
-    price: 5000,
-    demand: "High",
-    category: "Office",
-  },
-  {
-    id: 2,
-    name: "Chair",
-    sales: 400,
-    price: 3000,
-    demand: "Medium",
-    category: "Home",
-  },
-  {
-    id: 3,
-    name: "Sofa",
-    sales: 300,
-    price: 15000,
-    demand: "High",
-    category: "Home",
-  },
-  {
-    id: 4,
-    name: "Cabinet",
-    sales: 200,
-    price: 8000,
-    demand: "Low",
-    category: "Office",
-  },
-  {
-    id: 5,
-    name: "Bed",
-    sales: 250,
-    price: 12000,
-    demand: "Medium",
-    category: "Home",
-  },
-  {
-    id: 6,
-    name: "Desk",
-    sales: 150,
-    price: 6000,
-    demand: "Medium",
-    category: "Office",
-  },
-  {
-    id: 7,
-    name: "Bookshelf",
-    sales: 180,
-    price: 4000,
-    demand: "High",
-    category: "Home",
-  },
-  {
-    id: 8,
-    name: "Couch",
-    sales: 220,
-    price: 18000,
-    demand: "Low",
-    category: "Home",
-  },
-]
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Table",
+            "sales": 500,
+            "price": 5000,
+            "demand": "High",
+            "category": "Office"
+        },
+        {
+            "id": 2,
+            "name": "Chair",
+            "sales": 400,
+            "price": 3000,
+            "demand": "Medium",
+            "category": "Home"
+        },
+        {
+            "id": 3,
+            "name": "Sofa",
+            "sales": 300,
+            "price": 15000,
+            "demand": "High",
+            "category": "Home"
+        },
+        {
+            "id": 4,
+            "name": "Cabinet",
+            "sales": 200,
+            "price": 8000,
+            "demand": "Low",
+            "category": "Office"
+        },
+        {
+            "id": 5,
+            "name": "Bed",
+            "sales": 250,
+            "price": 12000,
+            "demand": "Medium",
+            "category": "Home"
+        },
+        {
+            "id": 6,
+            "name": "Desk",
+            "sales": 150,
+            "price": 6000,
+            "demand": "Medium",
+            "category": "Office"
+        },
+        {
+            "id": 7,
+            "name": "Bookshelf",
+            "sales": 180,
+            "price": 4000,
+            "demand": "High",
+            "category": "Home"
+        },
+        {
+            "id": 8,
+            "name": "Couch",
+            "sales": 220,
+            "price": 18000,
+            "demand": "Low",
+            "category": "Home"
+        }
+    ]
 }
