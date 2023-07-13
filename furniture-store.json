@@ -35,7 +35,7 @@
         {
             "id": 5,
             "name": "Bed",
-            "sales": 250,
+            "sales": 400,
             "price": 12000,
             "demand": "Medium",
             "category": "Home"
@@ -51,7 +51,7 @@
         {
             "id": 7,
             "name": "Bookshelf",
-            "sales": 400,
+            "sales": 300,
             "price": 4000,
             "demand": "High",
             "category": "Home"
